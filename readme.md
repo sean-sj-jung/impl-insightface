@@ -1,10 +1,12 @@
+# Face Detection and Swapping with InsightFace
 
-## Face Analysis and Swapping
-A tutorial notebook for insightface 
+This project demonstrates how to use [InsightFace](https://pypi.org/project/insightface/) for detecting and swapping faces in images through step-by-step Jupyter notebooks.
 
-#### Overview
-This repository contains Jupyter notebooks that guide you step-by-step of detecting and swapping faces in images.
+### Prerequisites
+To run the code in this repository, you will need:
+- [InsightFace](https://github.com/deepinsight/insightface) and requirements installed.
+- The `inswapper_128.onnx` model file, placed in the directory.
 
-
-
-
+### Key Features
+- **Face Detection**: Detects faces in images.
+- **Face Swapping**: Swaps faces between images.
