@@ -1,0 +1,8 @@
+insightface
+opencv-python
+onnx
+onnxruntime
+tqdm
+scikit-image
+albumentations
+matplotlib
