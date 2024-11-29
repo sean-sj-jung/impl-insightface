@@ -4,7 +4,7 @@ This project demonstrates how to use [InsightFace](https://pypi.org/project/insi
 
 ### Prerequisites
 To run the code in this repository, you will need:
-- pip install -r requirements.txt
+- `pip install -r requirements.txt`
 - The `inswapper_128.onnx` model file, placed in the directory.
 
 ### Key Features
